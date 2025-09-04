@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "yTFOuaXH6QhNJjKtCRmse0a8d7OAR94KfRYPKMDqeTw=",
+  "Source": "MedicalSystem",
+  "BasePath": "_content/MedicalSystem",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MedicalSystem/wwwroot",
+      "Source": "MedicalSystem",
+      "ContentRoot": "/Users/lorenababic/Desktop/MedicalSystem/MedicalSystem/wwwroot/",
+      "BasePath": "_content/MedicalSystem",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
